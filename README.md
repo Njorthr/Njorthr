@@ -3,8 +3,8 @@
 - I’m interested in Front End Web Development
 - I’m currently learning HTML,CSS and JavaScript
 - You can reach me via ahmetmelihguven1999@gmail.com
-![linkedin](https://user-images.githubusercontent.com/83810014/153674574-1f1a0280-aecf-40fb-83e4-3e21e5c15483.png)[1]
-![codewars](https://user-images.githubusercontent.com/83810014/153674708-22d26a8e-5e12-492c-bbb6-b902044068ee.svg)[2]
+[![linkedin](https://user-images.githubusercontent.com/83810014/153674574-1f1a0280-aecf-40fb-83e4-3e21e5c15483.png)][1]
+[![codewars](https://user-images.githubusercontent.com/83810014/153674708-22d26a8e-5e12-492c-bbb6-b902044068ee.svg)][2]
 
 
 
