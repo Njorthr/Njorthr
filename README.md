@@ -6,6 +6,7 @@
 [![linkedin](https://user-images.githubusercontent.com/83810014/153674574-1f1a0280-aecf-40fb-83e4-3e21e5c15483.png)][1]
 [![codewars](https://user-images.githubusercontent.com/83810014/153674708-22d26a8e-5e12-492c-bbb6-b902044068ee.svg)][2]
 
+<a href="https://www.linkedin.com/in/njorthr/"><img src="https://user-images.githubusercontent.com/83810014/153674574-1f1a0280-aecf-40fb-83e4-3e21e5c15483.png" width="25px" height="25px"></a>
 
 
 [1]: https://www.linkedin.com/in/njorthr/
