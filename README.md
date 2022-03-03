@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Njorthr
+- 👋 Hi, I’m Melih
 - I am a Civil Engineering student. 
 - I’m interested in Front End Web Development
 - I’m currently learning HTML,CSS and JavaScript
