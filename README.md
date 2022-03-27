@@ -10,11 +10,10 @@
 
 ## Tools
 <img src="https://user-images.githubusercontent.com/83810014/160295602-6700967a-c8b5-4c3b-ad80-68b3e02ab537.svg"
-        width="50px" height="50px">
-<img src="https://user-images.githubusercontent.com/83810014/160295603-da742cfc-3d3e-49ba-89d0-a693ec2b02e4.svg"
+        width="50px" height="50px"><img src="https://user-images.githubusercontent.com/83810014/160295603-da742cfc-3d3e-49ba-89d0-a693ec2b02e4.svg"
         width="50px" height="50px">
 
-     
+## Links
 <a target="_blank" href="https://www.linkedin.com/in/njorthr/"><img src="https://user-images.githubusercontent.com/83810014/153674574-1f1a0280-aecf-40fb-83e4-3e21e5c15483.png" width="35px" height="35px"></a>
 <a target="_blank" href="https://www.codewars.com/users/Njorthr"><img src="https://user-images.githubusercontent.com/83810014/153674708-22d26a8e-5e12-492c-bbb6-b902044068ee.svg" width="35px" height="35px"></a>
 
