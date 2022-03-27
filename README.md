@@ -4,9 +4,10 @@
 - I’m currently learning HTML,CSS and JavaScript
 - You can reach me via ahmetmelihguven1999@gmail.com  
 ## Languages
-![html](https://user-images.githubusercontent.com/83810014/160295569-6131b1d0-3c90-4c1c-8b4c-db05b6478b4a.svg)
-![css](https://user-images.githubusercontent.com/83810014/160295574-ac05b2ab-12b9-455b-9efa-c6a03348e9d1.svg)
-![javascript](https://user-images.githubusercontent.com/83810014/160295578-53a46de2-4d54-48b3-897a-5447b8f45ca2.svg)
+<img src="https://user-images.githubusercontent.com/83810014/160295569-6131b1d0-3c90-4c1c-8b4c-db05b6478b4a.svg" width="40px" height="40px"><img src="https://user-images.githubusercontent.com/83810014/160295574-ac05b2ab-12b9-455b-9efa-c6a03348e9d1.svg"
+        width="40px" height="40px"><img src="https://user-images.githubusercontent.com/83810014/160295578-53a46de2-4d54-48b3-897a-5447b8f45ca2.svg"
+        width="40px" height="40px">
+
 ## Tools
 ![git](https://user-images.githubusercontent.com/83810014/160295602-6700967a-c8b5-4c3b-ad80-68b3e02ab537.svg)
 ![npm](https://user-images.githubusercontent.com/83810014/160295603-da742cfc-3d3e-49ba-89d0-a693ec2b02e4.svg)
