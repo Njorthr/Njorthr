@@ -1,8 +1,7 @@
 # Ahmet Melih Güven
 - 👋 Hi, I’m Melih
-- I am a Civil Engineering student. 
-- I’m interested in Front End Web Development
-- I’m currently learning React.js
+ - interested in Front End Web Development
+- currently learning React.js
 - You can reach me via ahmetmelihguven1999@gmail.com  
 ## Languages
 <img src="https://user-images.githubusercontent.com/83810014/160295569-6131b1d0-3c90-4c1c-8b4c-db05b6478b4a.svg" width="50px" height="50px"><img src="https://user-images.githubusercontent.com/83810014/160295574-ac05b2ab-12b9-455b-9efa-c6a03348e9d1.svg"
