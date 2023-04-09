@@ -4,18 +4,22 @@
 - currently learning React.js
 - You can reach me via ahmetmelihguven1999@gmail.com  
 ## Languages
-<img src="https://user-images.githubusercontent.com/83810014/160295569-6131b1d0-3c90-4c1c-8b4c-db05b6478b4a.svg" width="50px" height="50px"><img src="https://user-images.githubusercontent.com/83810014/160295574-ac05b2ab-12b9-455b-9efa-c6a03348e9d1.svg"
-        width="50px" height="50px"><img src="https://user-images.githubusercontent.com/83810014/160295578-53a46de2-4d54-48b3-897a-5447b8f45ca2.svg"
-        width="50px" height="50px">
 
-## Tools
-<img src="https://user-images.githubusercontent.com/83810014/160295602-6700967a-c8b5-4c3b-ad80-68b3e02ab537.svg"
-        width="50px" height="50px"><img src="https://user-images.githubusercontent.com/83810014/160295603-da742cfc-3d3e-49ba-89d0-a693ec2b02e4.svg"
-        width="50px" height="50px">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+
+
+## Tools        
+[![My Skills](https://skillicons.dev/icons?i=git,vite,vscode)](https://skillicons.dev)
+<img src="https://user-images.githubusercontent.com/83810014/230793876-dec8d035-dd45-4cc3-a64b-02eb0c76adec.png"
+        width="48px" height="48px" display="inline">
+
 
 ## Links
-<a target="_blank" href="https://www.linkedin.com/in/njorthr/"><img src="https://user-images.githubusercontent.com/83810014/153674574-1f1a0280-aecf-40fb-83e4-3e21e5c15483.png" width="35px" height="35px"></a>
-<a target="_blank" href="https://www.codewars.com/users/Njorthr"><img src="https://user-images.githubusercontent.com/83810014/153674708-22d26a8e-5e12-492c-bbb6-b902044068ee.svg" width="35px" height="35px"></a>
+<a target="_blank" href="https://www.linkedin.com/in/njorthr/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+<a target="_blank" href="https://www.codewars.com/users/Njorthr"><img src="https://user-images.githubusercontent.com/83810014/153674708-22d26a8e-5e12-492c-bbb6-b902044068ee.svg" width="48px" height="48px"></a>
+
+
+
 
 <!---
 Njorthr/Njorthr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
